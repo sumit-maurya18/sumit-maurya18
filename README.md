@@ -1,7 +1,7 @@
 <!-- Profile views and followers badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Striver-tech-aid&style=flat-square&color=brightgreen" alt="Profile views"/>  
-  <img src="https://img.shields.io/github/followers/Striver-tech-aid?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=sumit-maurya18&style=flat-square&color=brightgreen" alt="Profile views"/>  
+  <img src="https://img.shields.io/github/followers/sumit-maurya18?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
 </p>
 
 <!-- Animated Welcome Banner -->
@@ -47,8 +47,8 @@
 <!-- Featured Projects Section (customize these!) -->
 <h3 align="center">🚩 Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/Striver-tech-aid/YourTopRepo"><b><!--🌟 YourTopRepo--></b></a> — Coming Soon...<br>  <!--Your awesome project description here-->
-  <a href="https://github.com/Striver-tech-aid/AnotherCoolRepo"><b><!--🚀 AnotherCoolRepo--></b></a> —Coming Soon...<br>  <!--Brief summary about what this does.-->
+  <a href="https://github.com/sumit-maurya18/YourTopRepo"><b><!--🌟 YourTopRepo--></b></a> — Coming Soon...<br>  <!--Your awesome project description here-->
+  <a href="https://github.com/sumit-maurya18/AnotherCoolRepo"><b><!--🚀 AnotherCoolRepo--></b></a> —Coming Soon...<br>  <!--Brief summary about what this does.-->
 <!--   <i>(Add or update links to your favorite repos!)</i> -->
 </p>
 
@@ -57,11 +57,11 @@
 <!-- GitHub Stats -->
 <h3 align="center">📈 GitHub Contributions</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Striver-tech-aid&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Striver-tech-aid&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-maurya18&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=sumit-maurya18&theme=radical&hide_border=true" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Striver-tech-aid&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-maurya18&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
@@ -91,9 +91,9 @@
 <hr style="border: 1px dashed #16F7E7;">
 
 <!-- Snake Game -->
-<h3 align="center">🐍 Contribution Game</h3>
+<h3 align="center">🐍 Github Contributions</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Striver-tech-aid/Striver-tech-aid/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sumit-maurya18/sumit-maurya18/output/snake.svg" alt="Snake animation" />
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
