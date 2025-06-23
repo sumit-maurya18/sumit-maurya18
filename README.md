@@ -16,10 +16,12 @@
 
 <!-- About Me -->
 <p align="center">
-✨ Exploring how tech solves real-world problems.<br />
-🔥 Learning by building cool stuff.<br />
-💡 Collaborating, contributing, and creating together.<br />
-🌱 Always curious, always coding.
+My world is silent until compiled.<br>
+Not loud, but layered — like nested conditions.<br>
+I value clean syntax and rare connections.<br>
+Some variables I keep unshared,<br>
+Some loops run just once,<br>
+And some... I wait to execute.
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
