@@ -31,9 +31,9 @@ And some... I wait to execute.
 
 <ul>
   <li>🔧 Building dynamic web apps</li>
-  <li>🎓 Applying CS fundamentals through hands-on projects</li>
+  <li>🎓 Learning CS fundamentals</li>
   <li>🤖 Exploring how data tells stories (Data Science & ML)</li>
-  <li>🌍 Open-source contributions and tech for social good</li>
+  <li>🌍 Open-source contributions</li>
 </ul>
 
 <hr style="border: 1px dashed #16F7E7;">
