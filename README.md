@@ -59,11 +59,11 @@ And some... I wait to execute.
 <!-- GitHub Stats --> 
 <h3 align="center">📈 GitHub Contributions</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-maurya18&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=sumit-maurya18&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-maurya18&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=sumit-maurya18&theme=radical&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-maurya18&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-maurya18&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
