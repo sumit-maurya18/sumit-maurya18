@@ -16,7 +16,7 @@
 
 <!-- About Me -->
 <p align="center">
-My world is silent until compiled.<br>
+My world is silent untill compiled.<br>
 Not loud, but layered — like nested conditions.<br>
 I value clean syntax and rare connections.<br>
 Some variables I keep unshared,<br>
@@ -103,5 +103,5 @@ And some... I wait to execute.
 <!-- Fun Fact or Quote -->
 <p align="center">
 <!--   <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em><br> -->
-  🔥 Building features, fixing bugs....maybe waiting on that one unexpected commit.
+  🔥 Building features, fixing bugs.... waiting for one unexpected commit.
 </p>
