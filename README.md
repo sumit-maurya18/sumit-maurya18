@@ -10,18 +10,18 @@
 </p>
 
 <!-- Headline -->
-<h3 align="center">🚀 Python meets Web | 💻 Tech Explorer | 🎓 CSE Undergrad</h3>
+<h3 align="center">🚀 Data + Web | 💡 Explorer | 🎓 CSE Undergrad</h3>
 
 <hr style="border: 1px dashed #16F7E7;">
 
 <!-- About Me -->
 <p align="center">
-My world is silent untill compiled.<br>
-Not loud, but layered — like nested conditions.<br>
-I value clean syntax and rare connections.<br>
-Some variables I keep unshared,<br>
-Some loops run just once,<br>
-And some... I wait to execute.
+A deadlock resolved without external resolution.<br>
+Deferred calls expired by design.<br>
+References loosened, state remained consistent.<br>
+Control flow simplified.<br>
+The runtime reached equilibrium.<br>
+New events are admissible.<br>
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
@@ -33,6 +33,7 @@ And some... I wait to execute.
   <li>🔧 Building dynamic web apps</li>
   <li>🎓 Learning CS fundamentals</li>
   <li>🤖 Exploring how data tells stories (Data Science & ML)</li>
+  <li>🛠️ Building something meaningful</li>
   <li>🌍 Open-source contributions</li>
 </ul>
 
@@ -41,7 +42,7 @@ And some... I wait to execute.
 <!-- Tech Stack & Tools -->
 <h3 align="center">🧰 Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,python,anaconda,cpp,jupyter" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,mongodb,mysql,git,github,python,ts,cpp,jupyter" />
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
@@ -71,7 +72,7 @@ And some... I wait to execute.
 <!-- Currently Typing -->
 <h3 align="center">🔥 Currently Typing...</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16F7E7&center=true&vCenter=true&width=435&lines=Web+Dev;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%BB;Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16F7E7&center=true&vCenter=true&width=435&lines=Web+Dev;Problem+Solving+%F0%9F%9A%80;Machine+Learning+%F0%9F%92%BB;Data+Science" alt="Typing SVG" />
 </p>
 
 <hr style="border: 1px dashed #16F7E7;">
@@ -103,5 +104,5 @@ And some... I wait to execute.
 <!-- Fun Fact or Quote -->
 <p align="center">
 <!--   <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em><br> -->
-  🔥 Building features, fixing bugs.... waiting for one unexpected commit.
+  🔥 Making progress, cleaning up issues, and designing for unknown inputs.
 </p>
